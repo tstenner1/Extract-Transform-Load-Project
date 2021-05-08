@@ -1,9 +1,12 @@
 # Project Overview
 
 #E
-  *First we made the proper imports in Pandas 
-  --Next we extraced the CVS's into pandas and displayed them 
+  -First we made the proper imports in Pandas 
+  
+  -Next we extraced the CVS's into pandas and displayed them 
+  
   -Merged the two dataframes
+  
   -Listed the overall columns
   
 #T
